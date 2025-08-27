@@ -1,0 +1,8 @@
+﻿{
+  "title": "New Test Book",
+  "coverUrl": "/images/bookcovers/newtest.png",
+  "yearPublished": 2025,
+  "setting": "Castle Rock, Maine",
+  "series": "Standalone",
+  "summary": "This book is created for testing POST functionality."
+}

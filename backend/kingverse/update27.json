@@ -1,0 +1,9 @@
+﻿{
+  "bookId": 27,
+  "title": "Dummy Book for Testing — UPDATED",
+  "coverUrl": "/images/bookcovers/testbook.png",
+  "yearPublished": 2026,
+  "setting": "Somewhere Else, USA",
+  "series": "Standalone",
+  "summary": "Updated summary for PUT test."
+}

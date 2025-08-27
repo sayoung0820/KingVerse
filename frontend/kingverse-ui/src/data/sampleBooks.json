@@ -1,0 +1,4 @@
+[
+  { "bookId": 1, "title": "It", "yearPublished": 1986, "setting": "Derry", "series": "Standalone", "summary": "An ancient evil returns." },
+  { "bookId": 2, "title": "The Dead Zone", "yearPublished": 1979, "setting": "Castle Rock", "series": "Standalone", "summary": "Man awakens psychic." }
+]
